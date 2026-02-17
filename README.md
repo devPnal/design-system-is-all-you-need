@@ -4,7 +4,7 @@ DSIAYN (pronounced DEE-SYA-IN with the nuance of 'DESIGN') is a collection of gu
 ## Just start
 It is provided as a Skill, and if desired, you can also instruct the internal design guidelines as separate prompts.
 
-It's simple. Either use the design-guideline-is-all-you-need directory within this repository itself via Skill, or if even that seems troublesome, copy and paste your desired design prompt from within the folder, then say, "Let's create the following service using this design guideline..."
+It's simple. Either use the design-system-is-all-you-need directory within this repository itself via Skill, or if even that seems troublesome, copy and paste your desired design prompt from within the folder, then say, "Let's create the following service using this design guideline..."
 
 Fundamentally, tools like Claude Code or Codex will ask appropriate initial questions (such as the design system to use, theme colours, shadow intensity, etc.).
 

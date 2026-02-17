@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/devpnal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
+
 # design-system-is-all-you-need (DSIAYN)
 DSIAYN (pronounced DEE-SYA-IN with the nuance of 'DESIGN') is a collection of guideline prompts designed to improve the unique design characteristics of generative AI and achieve a modern aesthetic.
 

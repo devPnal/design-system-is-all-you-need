@@ -26,11 +26,12 @@ If the user has NOT already specified which design style to use, you MUST stop a
 |---|-------|------|-------------|
 | 1 | **Neumorphism** (Soft UI) | `references/neumorphism.md` | Extruded/pressed soft surfaces with dual-directional shadows on a matte background |
 | 2 | **Glassmorphism** (Frosted Glass UI) | `references/glassmorphism.md` | Translucent frosted glass panels layered over rich, vibrant backgrounds |
-| 3 | **Brutalism** (Raw UI)| references/brutalism.md | Exposed structural elements with thick borders, hard-edge shadows, and aggressive typography on flat surfaces |
-| 4 | **Skeuomorphism** (Realistic UI) | references/skeuomorphism.md | Tangible, material-driven surfaces with realistic gradients, textures, highlights, and physically weighted interactions |
-| 5 | **Material Design** (Material You / M3) | references/material-design.md | Layered adaptive surfaces with tonal color palettes, systematic elevation, and physically informed motion |
-| 6 | **Pnalism** (Two-Tone Minimal, Pnal's UI) | references/pnalism.md | Disciplined two-tone color system with zero shadows, relying solely on typography, whitespace, and precise accent placement |
-
+| 3 | **Brutalism** (Raw UI)| `references/brutalism.md` | Exposed structural elements with thick borders, hard-edge shadows, and aggressive typography on flat surfaces |
+| 4 | **Skeuomorphism** (Realistic UI) | `references/skeuomorphism.md` | Tangible, material-driven surfaces with realistic gradients, textures, highlights, and physically weighted interactions |
+| 5 | **Material Design** (Material You / M3) | `references/material-design.md` | Layered adaptive surfaces with tonal color palettes, systematic elevation, and physically informed motion |
+| 6 | **Pnalism** (Two-Tone Minimal, Pnal's UI) | `references/pnalism.md` | Disciplined two-tone color system with zero shadows, relying solely on typography, whitespace, and precise accent placement |
+| 7 | **Neon** (Glow UI) | `references/neon.md` | Dark-first luminous interfaces with multi-layer colored glow effects simulating electric neon tube signage |
+| 8 | **Heritage** (Warm Editorial UI) | `references/heritage.md` | Warm earthy tonal surfaces with serif/script typography, organic image shapes, and editorial asymmetric layouts |
 
 
 Present these options clearly and wait for the user's choice. If the user describes a style that clearly maps to one of the above (e.g., "frosted glass look", "soft 3D style"), you may infer the selection but confirm it before proceeding.
@@ -47,6 +48,8 @@ Once the user has chosen a guideline, immediately read the corresponding file fr
 - Skeuomorphism → Read `references/skeuomorphism.md`
 - Meterial Design → Read `references/meterial-design.md`
 - Pnalism → Read `references/pnalism.md`
+- Neon → Read `references/neon.md`
+- Heritage → Read `references/heritage.md`
 
 Internalize ALL rules from the selected guideline — both common rules and component-specific guides. These rules govern every design decision from this point forward.
 
@@ -77,6 +80,14 @@ Each guideline requires exactly **two user inputs**. After reading the guideline
 **For Pnalism:**
 1. **Theme Color** (`--theme-color`): A hex color code (e.g., #4A7DFF)
 2. **Density** (`--density`): `compact` | `comfortable` | `spacious`
+
+**For Neon**:
+1. Theme Color (`--theme-color`): A hex color code (e.g., #FF00FF)
+2. Glow Intensity (`--glow-intensity`): `dim` | `standard` | `vivid`
+
+**For Heritage:**
+1. Theme Color (`--theme-color`): A hex color code (e.g., #C4A882)
+2. Warmth Level (`--warmth`): `subtle` | `classic` | `rich`
 
 When asking, provide brief descriptions and examples so the user can make an informed choice. Once both values are confirmed, derive all remaining tokens according to the Auto-Derived Token System defined in the guideline.
 

@@ -49,5 +49,19 @@ Fundamentally, tools like Claude Code or Codex will ask appropriate initial ques
 
 ```GPT``` ```Codex``` ```5.3 Codex```
 
+---
+
+### Neon
+<img width="1237" height="885" alt="image" src="https://github.com/user-attachments/assets/5e7fa531-a075-46bc-ace4-7eb64aa6833f" />
+
+```Claude``` ```Claude Code``` ```Opus 4.6```
+
+---
+
+### Heritage
+<img width="1237" height="885" alt="image" src="https://github.com/user-attachments/assets/93c25993-31de-45b9-80a6-1d5c27c0b3d2" />
+
+```Claude``` ```Claude Code``` ```Opus 4.6```
+
 ## Under development...
 Design system updates will be added periodically.

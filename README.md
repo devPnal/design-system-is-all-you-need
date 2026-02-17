@@ -52,14 +52,14 @@ Fundamentally, tools like Claude Code or Codex will ask appropriate initial ques
 ---
 
 ### Neon
-<img width="1237" height="885" alt="image" src="https://github.com/user-attachments/assets/5e7fa531-a075-46bc-ace4-7eb64aa6833f" />
+<img width="1237" height="885" alt="스크린샷 2026-02-17 11-56-13" src="https://github.com/user-attachments/assets/bf2e6d57-85e4-4b8a-aa3a-413c90ea623a" />
 
 ```Claude``` ```Claude Code``` ```Opus 4.6```
 
 ---
 
 ### Heritage
-<img width="1237" height="885" alt="image" src="https://github.com/user-attachments/assets/93c25993-31de-45b9-80a6-1d5c27c0b3d2" />
+<img width="1237" height="885" alt="스크린샷 2026-02-17 12-02-24" src="https://github.com/user-attachments/assets/1fca0102-309d-404e-a056-6bd29fb240f4" />
 
 ```Claude``` ```Claude Code``` ```Opus 4.6```
 

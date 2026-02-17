@@ -1,5 +1,5 @@
 ---
-name: design-guideline-is-all-you-need
+name: design-system-is-all-you-need
 description: This skill provides a curated set of cross-platform design guideline prompts for building consistent, high-quality UIs. Each guideline defines common rules, component-specific guides, and an auto-derived token system — all driven by minimal user inputs.
 ---
 

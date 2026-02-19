@@ -11,6 +11,11 @@ It's simple. Either use the design-system-is-all-you-need directory within this 
 Fundamentally, tools like Claude Code or Codex will ask appropriate initial questions (such as the design system to use, theme colours, shadow intensity, etc.).
 
 ## Gallary
+
+<img width="1920" height="3672" alt="brutalism" src="https://github.com/user-attachments/assets/15b20161-49ff-4738-bd96-8737ebc1c3d4" />
+
+---
+
 ### Neumorphism
 <img width="1076" height="849" alt="image" src="https://github.com/user-attachments/assets/fb143673-16fd-4f98-9252-0319271f5174" />
 
@@ -26,7 +31,7 @@ Fundamentally, tools like Claude Code or Codex will ask appropriate initial ques
 ---
 
 ### Brutalism
-<img width="1920" height="3672" alt="brutalism" src="https://github.com/user-attachments/assets/15b20161-49ff-4738-bd96-8737ebc1c3d4" />
+<img width="1889" height="898" alt="스크린샷 2026-02-16 21-09-15" src="https://github.com/user-attachments/assets/bdecba88-dc6b-4c44-9a7a-6f9a67a5c8f3" />
 
 ```Claude``` ```Claude Code``` ```Opus 4.6```
 

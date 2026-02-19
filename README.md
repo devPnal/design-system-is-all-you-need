@@ -26,7 +26,7 @@ Fundamentally, tools like Claude Code or Codex will ask appropriate initial ques
 ---
 
 ### Brutalism
-<img width="1889" height="898" alt="스크린샷 2026-02-16 21-09-15" src="https://github.com/user-attachments/assets/bdecba88-dc6b-4c44-9a7a-6f9a67a5c8f3" />
+<img width="1920" height="3672" alt="brutalism" src="https://github.com/user-attachments/assets/15b20161-49ff-4738-bd96-8737ebc1c3d4" />
 
 ```Claude``` ```Claude Code``` ```Opus 4.6```
 

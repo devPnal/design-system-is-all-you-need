@@ -1,5 +1,5 @@
 <div align=center> 
-<img width="256" height="256" alt="Logo" src="https://github.com/user-attachments/assets/72e7153a-8c31-4b98-bf03-fef96ef1cde0" />
+<img width="128" height="128" alt="Logo" src="https://github.com/user-attachments/assets/72e7153a-8c31-4b98-bf03-fef96ef1cde0" />
 <br><br>
 <a href="https://www.buymeacoffee.com/devpnal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162px !important;" ></a></div>
 

@@ -1,7 +1,7 @@
 <a href="https://www.buymeacoffee.com/devpnal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
 
 # design-system-is-all-you-need (DSIAYN)
-DSIAYN (pronounced DEE-SYA-IN with the nuance of 'DESIGN') is a collection of guideline prompts designed to improve the unique design characteristics of generative AI and achieve a modern aesthetic.
+DSIAYN (pronounced DEE-SYA-IN with the nuance of 'DESIGN') is a a collection of guideline prompts created to refine the often awkward design traits of generative AI by applying a modern design system, intended for use in Claude, Codex or other vibe coding tools 
 
 ## Just start
 It is provided as a Skill, and if desired, you can also instruct the internal design guidelines as separate prompts.

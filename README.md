@@ -13,7 +13,7 @@ It's simple. Either use the design-system-is-all-you-need directory within this 
 
 Fundamentally, tools like Claude Code or Codex will ask appropriate initial questions (such as the design system to use, theme colours, shadow intensity, etc.).
 
-## Gallary
+## Gallery
 
 <img width="1920" height="3672" alt="brutalism" src="https://github.com/user-attachments/assets/15b20161-49ff-4738-bd96-8737ebc1c3d4" />
 
